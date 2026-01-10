@@ -19,8 +19,8 @@ I’m all about building clean, user-friendly applications and learning technolo
 ## 📂 Projects & Academic Work
 ### **SAIT Polytechnic | Software Development Diploma**  
 *September 2023 - April 2025*
-- Created a mobile catering app for a real client (EXPAND ON THIS!!!)
-- Completed projects in **Python, C#, Java, JavaScript**  
+- Created a mobile catering app for a real client. It was designed using Figma and coded using react-native for scalability across multiple devices.
+- Completed projects in **Python, C#, Java, JavaScript, SQL**  
 - Designed user interfaces in **Figma**
 
 ---
