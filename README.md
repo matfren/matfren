@@ -25,6 +25,11 @@ I’m all about building clean, user-friendly applications and learning technolo
 
 ---
 
+## 📂 Side Projects
+- Currently working on a calorie tracking application that does more than just count.
+
+---
+
 ## 🔗 Connect With Me 
 - 💼 LinkedIn: [Mat Frenette](https://www.linkedin.com/in/mat-frenette-3a97b0361/)  
 - 📫 Email: *mathieuafrenette@gmail.com*
